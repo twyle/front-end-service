@@ -1,4 +1,4 @@
-# React Blog Deployed to AWS ECS 
+# React Blog Deployed to AWS ECS
 
 > A react application that enables a user to create, view, edit and delete blog articles.
 
