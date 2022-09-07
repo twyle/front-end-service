@@ -1,0 +1,37 @@
+name: Feature Development Build
+
+on:
+  push:
+    branches-ignore: [development, staging, production, release]
+  workflow_dispatch:
+
+jobs:
+
+  Frontend:
+
+    runs-on: ubuntu-latest
+
+    environment:
+      name: Test
+
+    strategy:
+      matrix:
+        node-version: ["18.x"]
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm ci
+
+    # - name: Test
+    #   run: npm test
+
+    - name: Build 
+      run: npm run build --if-present
