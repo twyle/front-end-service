@@ -51,7 +51,7 @@ Here are sample backend-services that can be used with this front-end:
 </p>
 
 <p align=center>
-  <img width=400 src="assets/videos/user-management-service.gif" />
+  <img width=400 src="assets/videos/search-service.gif" />
 </p>
 
  ## Features
