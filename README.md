@@ -10,7 +10,14 @@
   <img title="Bandit badge" alt="Bandit badge" src="https://github.com/twyle/front-end-service/actions/workflows/production-workflow.yml/badge.svg" />
 </p>
 
- <p align=center>
+<p align=center>
+  <img width=400 src="assets/videos/login-register.gif" />
+  <img width=400 src="assets/videos/home-page.gif" />
+</p>
+
+</br>
+
+<p align=center>
   <img width=400 src="assets/videos/login-register.gif" />
   <img width=400 src="assets/videos/home-page.gif" />
 </p>
