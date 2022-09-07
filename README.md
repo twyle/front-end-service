@@ -18,14 +18,14 @@
 </br>
 
 <p align=center>
-  <img width=400 src="assets/videos/login-register.gif" />
-  <img width=400 src="assets/videos/home-page.gif" />
+  <img width=400 src="assets/videos/create-article-page.gif" />
+  <img width=400 src="assets/videos/single-article-page.gif" />
 </p>
 
 </br>
 
 <p align=center>
-  <img width=400 src="assets/videos/login-register.gif" />
+  <img width=400 src="assets/videos/settings-page.gif" />
 </p>
 
 ## Project Overview
