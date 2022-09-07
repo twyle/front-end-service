@@ -22,6 +22,12 @@
   <img width=400 src="assets/videos/home-page.gif" />
 </p>
 
+</br>
+
+<p align=center>
+  <img width=400 src="assets/videos/login-register.gif" />
+</p>
+
 ## Project Overview
 This is a web application frontend that enables the user to create, view, edit and delete blog posts. It works with a frontend-application that includes:
 
